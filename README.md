@@ -18,7 +18,7 @@ The goal of this project is to understand the complete boot flow and internal co
 ## qemu emulation 
 1. **kernel booted sucessfully**
 
-![alt text](images/linuxboot.png)
+![alt text](images/image.png)
 
 2. **u boot prompt screen**
 
